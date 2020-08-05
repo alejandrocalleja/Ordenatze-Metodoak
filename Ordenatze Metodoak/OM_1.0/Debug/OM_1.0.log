@@ -1,0 +1,9 @@
+﻿  main.c
+D:\mmale\Documentos\MU\2. seihilekoa\Programazioa\src\Ordenatze Metodoak\OM_1.0\include.h(2,1): error C2008: '.': no se esperaba en la definición de macro
+D:\mmale\Documentos\MU\2. seihilekoa\Programazioa\src\Ordenatze Metodoak\OM_1.0\main.c(12,9): warning C4013: 'menu' sin definir; se supone que extern devuelve como resultado int
+D:\mmale\Documentos\MU\2. seihilekoa\Programazioa\src\Ordenatze Metodoak\OM_1.0\main.c(19,6): error C2371: 'menu': nueva definición; tipos básicos distintos
+D:\mmale\Documentos\MU\2. seihilekoa\Programazioa\src\Ordenatze Metodoak\OM_1.0\main.c(32,14): error C2065: 'str': identificador no declarado
+D:\mmale\Documentos\MU\2. seihilekoa\Programazioa\src\Ordenatze Metodoak\OM_1.0\main.c(32,14): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+D:\mmale\Documentos\MU\2. seihilekoa\Programazioa\src\Ordenatze Metodoak\OM_1.0\main.c(32,14): warning C4024: 'fgets': tipos distintos para el parámetro formal y el parámetro real 1
+D:\mmale\Documentos\MU\2. seihilekoa\Programazioa\src\Ordenatze Metodoak\OM_1.0\main.c(32,16): error C2059: error de sintaxis: '='
+D:\mmale\Documentos\MU\2. seihilekoa\Programazioa\src\Ordenatze Metodoak\OM_1.0\main.c(32,23): error C2143: error de sintaxis: falta ';' delante de ','
